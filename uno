@@ -1,0 +1,4 @@
+rosso
+giallo
+verde
+blu
